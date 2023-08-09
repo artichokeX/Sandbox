@@ -1,0 +1,12 @@
+[submodule "P1"]
+	path = P1
+	url = git@github.com:artichokeX/P1.git
+[submodule "P2"]
+	path = P2
+	url = git@github.com:artichokeX/P2.git
+[submodule "p3"]
+	path = p3
+	url = git@github.com:artichokeX/p3.git
+[submodule "typescript_demo"]
+	path = typescript_demo
+	url = git@github.com:artichokeX/typescript_demo.git
