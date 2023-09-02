@@ -13,3 +13,6 @@
 [submodule "P4"]
 	path = P4
 	url = git@github.com:artichokeX/P4.git
+[submodule "P5"]
+	path = P5
+	url = git@github.com:artichokeX/P5.git
